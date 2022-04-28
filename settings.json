@@ -1,0 +1,19 @@
+{
+    "name": "viveApp",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "test token",
+        "/category/asset_value_tracking/core-token/symbol": "iphone",
+        "/category/asset_value_tracking/core-token/decimals": "17",
+        "/category/asset_value_tracking/core-token/supply": "10",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/collection/core-entity": true
+    }
+}
